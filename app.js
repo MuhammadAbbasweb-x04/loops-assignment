@@ -77,12 +77,75 @@
 
 // for(let i = 0; i < cite.length; i++){
 // box.innerHTML += cite[i] + ' ' ;
+// }
 
 
+// Q9
+// Answer
+// for(let i = 1; i < 21; i++){
+// if(i%2===0){
+// console.log(i);
+// }
 // }
 
 
 
+// Q10
+// Answer
+// let max = document.querySelector("#max");
+// let numbers = [45, 22, 89, 100];
+
+// for(let i = 0; i < numbers.length; i++ ){
+//     console.log(i)
+// max.innerHTML = `${numbers[i]} Max`;
+// }
+
+
+// Q11
+// Answer
+// let result = document.querySelector("#result");
+// result.innerHTML = "Task Complete";
 
 
 
+
+
+// Q12
+// Answer
+// let  average = document.querySelector("#averageTemp");
+// let temp = [30, 35, 32, 40];
+// let sum = 0; 
+// for(let i = 0; i < temp.length; i++){
+//   sum +=temp[i];
+// }
+// let avg = sum / temp.length;
+// average.innerHTML = "average temperature: " + avg;
+
+// Q13
+// Answer
+// let total = document.querySelector("#totalSum");
+// let sum = 0;
+// for(let i = 1; i < 101; i++){
+// total.innerHTML = sum = sum + i;
+
+// }
+
+// Q14
+// Answer
+
+// let animals = document.querySelector("#animals");
+// let array = ["dog", "cat", "bird"]
+// for(let i = 0; i < array.length; i++){
+// animals.innerHTML += array[i] + "  ";
+
+// }
+
+
+// Q15
+// Answer
+// let head = document.querySelector("#title");
+// head.innerHTML = "Welcome to Javascript";
+
+
+// Q16
+// Answer
