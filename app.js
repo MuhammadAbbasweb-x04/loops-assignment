@@ -229,3 +229,68 @@
 
 //  Q24
 // Answer
+// let numbers = [2, 4, 6, 8, 10];
+// let totel = 0;
+// for(let i = 0; i < numbers.length; i++){
+// totel = numbers[i] * 3;
+// console.log(totel);
+
+// }
+
+//  Q25
+// Answer
+// let numbers = [1, 3, 5, 7, 9];
+// for(let i = 0; i < numbers.length; i++){
+// if(numbers[i] >= 4){
+// console.log(numbers[i])
+// }
+// }
+
+
+
+//  Q26
+// Answer
+// let numbers = [10, 15, 20, 25, 30];
+// let sum = 0;
+// for(let i = 0; i < numbers.length; i++){
+// if(numbers[i]%5===0){
+// sum += numbers[i];
+// console.log(sum)
+// }
+// }
+
+
+
+//  Q27
+// Answer
+// let numbers = [10, 20, 30, 40, 25];
+// for(let i = 0; i < numbers.length; i++){
+
+// if(numbers[i] === 25){
+// console.log(numbers.includes(25));
+
+// }
+
+// }
+
+//  Q28
+// Answer
+
+// let arrone = [1,2,3];
+// let arrtwo = [4,5,6];
+// let  sumarr = 0;
+
+
+// for(let i = 0; i < arrone.length; i++){
+// sumarr = arrone.push(arrone + arrtwo);
+// console.log(sumarr)
+// }
+
+
+
+
+
+
+
+
+
