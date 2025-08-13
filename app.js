@@ -289,8 +289,28 @@
 
 
 
+//  Q29
+// Answer
+// let numbers = [10, 99, 23, 87, 56];
+// for(let i =0; i < numbers.length; i++){
+// if(numbers[i] >= 75){
+
+//     console.log(numbers[i])
+// }
+
+
+// }
 
 
 
 
 
+//  Q30
+// Answer
+// let num = [1, 2, 3, 4, 5];
+// let revers = [];
+// for(let i = 0; i < num.lengthl; i++){
+// revers.push(num[i])
+
+// }
+// console.log(revers)
