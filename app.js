@@ -155,3 +155,77 @@
 // }
 
 // }
+
+
+// Q17
+// Answer
+// let disply = document.querySelector("#highScores");
+// let scores = [80, 60, 90, 70];
+// let count = 0;
+// for(let i = 0; i < scores.length; i++){
+// if(count > 75){ 
+//      count++ 
+// }
+// }
+
+// disply.innerHTML =scores[i];
+
+
+//  Q18
+// Answer
+// let head = document.querySelector("#message");
+// head.innerHTML = "Updated successfully";
+
+
+//  Q19
+// Answer
+// let para = document.querySelector("#subjectsList");
+
+// let sub = ["Math", "Science", "English"];
+// for(let i =0 ; i < sub.length; i++){
+// para.innerHTML = sub.join(" ") ;
+
+
+// }
+
+
+//  Q21
+// Answer
+// let numbers = [45, 67, 12, 89, 34];
+// let largnumber =[0]; 
+// for(let i = 0;  i < numbers.length; i++){
+// if(numbers[i] >= 89){
+// largnumber = numbers[i];
+// }
+// }
+// console.log(largnumber);
+
+
+//  Q22
+// Answer
+// let even =[3, 8, 6, 1, 9, 2];
+// for(let i = 0; i < even.length; i++){
+// if(i%2!==0){
+// console.log(even[i])
+// }
+// }
+
+//  Q23
+// Answer
+
+// let numbers = [20, 30, 40, 50];
+// let total = 0;
+
+
+// for (let i = 0; i < numbers.length; i++) {
+//     total += numbers[i];
+
+// }
+
+// let average = total / numbers.length;
+
+// console.log("Average:", average);
+
+
+//  Q24
+// Answer
