@@ -400,3 +400,18 @@
 
 
 //  Q37
+// let numbers = [2, 4, 6, 8];
+// let even = true;
+
+// for(let i = 0; i < numbers.length; i++){
+//     if(numbers[i] % 2 !== 0){
+//         even = false;
+//         break; 
+//     }
+// }
+
+// if(even){
+//     console.log("all numbers are even");
+// } else {
+//     console.log("not all numbers are even");
+// }
