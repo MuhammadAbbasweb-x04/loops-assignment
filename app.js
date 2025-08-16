@@ -391,3 +391,12 @@
 
 
 //  Q36
+// let numbers = [1, 2, 3, 4, 5, 6];
+// for(let i = 0; i < numbers.length; i++){
+//numbers.splice(0, 1, 8);
+//numbers.splice(numbers.length -1, 1,7);
+//console.log(numbers[i])
+// }
+
+
+//  Q37
