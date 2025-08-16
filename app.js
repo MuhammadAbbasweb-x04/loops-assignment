@@ -308,9 +308,86 @@
 //  Q30
 // Answer
 // let num = [1, 2, 3, 4, 5];
-// let revers = [];
-// for(let i = 0; i < num.lengthl; i++){
-// revers.push(num[i])
+// let reversed = [];
+// for(let i = num.lengthl -1; i >= 0; i--){
+// reversed.push(num[i])
+// console.log(num.reversed());
+// }
+
+
+
+//  Q31
+// Answer
+// for (let n = 2; n <= 50; n++) {
+//   let prime = true;
+
+//   for (let i = 2; i < n; i++) {
+//     if (n % i === 0) {
+//       prime = false;
+//       break;
+//     }
+//   }
+
+//   if (prime) {
+//     console.log(n);
+//   }
+// }
+
+
+//  Q32
+// Answer
+// let numbers = [11, 4, 99, 2, 47];
+// let largenum = numbers[0];
+// let smallnum = numbers[0];
+// for(let i =0; i < numbers.length; i++){
+// if(numbers[i] > largenum){
+// largenum = numbers[i]
 
 // }
-// console.log(revers)
+// if(numbers[i] < smallnum){
+// smallnum = numbers[i]
+// }
+
+// }
+
+// let difrance = largenum - smallnum;
+// console.log(difrance)
+
+
+//  Q33
+// Answer
+// let negativenumbers = [0, -1, -5, 6, 8, -3];
+// count = 0;
+// for(let i = 0; i < negativenumbers.length; i++){
+// if(negativenumbers[i] < 0){
+// console.log(i);
+// }
+
+// }
+
+
+//  Q34
+// Answer
+// let odd = [1, 3, 5, 7, 9, 11,];
+// let newarr = [];
+// for(let i = 0; i < odd.length; i++){
+// if(odd[i]%2 !== 0){
+// console.log(i)
+// newarr.push(odd[i]);
+// }
+// }
+// console.log(newarr);
+
+
+//  Q35
+// Answer
+// let numbers = [0, 1, 0, 3, 0, 5];
+// for(let i =0; i < numbers.length; i++ ){
+// if(numbers[i] > 0){
+// console.log(i);
+// }
+
+// }
+
+
+//  Q36
