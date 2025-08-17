@@ -188,6 +188,25 @@
 
 // }
 
+//  Q20
+// Answer
+// for(let i =10; i > 0; i--){
+//     console.log(i);
+// }
+
+// let numbers = [5, 10, 15, 20];
+// let sum = 0;
+// for(let i = 0; i < numbers.length; i++){
+// sum += numbers[i];
+
+// } 
+// console.log(sum)
+
+
+
+
+
+
 
 //  Q21
 // Answer
