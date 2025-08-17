@@ -443,9 +443,9 @@
 
 //  Q39
 // Answer
-let num = [2, 2, 2, 2, 2];
-for(let i = 0; i < numbers.length; i++){
-if(num === num){
-console.log(num)
-}
-}
+// let num = [2, 2, 2, 2, 2];
+// for(let i = 1; i < num.length; i++){
+// if(num.some(num%2===0)){
+// console.log(num);
+// }
+// }
