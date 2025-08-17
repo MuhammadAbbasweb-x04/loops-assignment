@@ -391,6 +391,7 @@
 
 
 //  Q36
+// Answer
 // let numbers = [1, 2, 3, 4, 5, 6];
 // for(let i = 0; i < numbers.length; i++){
 //numbers.splice(0, 1, 8);
@@ -400,6 +401,7 @@
 
 
 //  Q37
+// Answer
 // let numbers = [2, 4, 6, 8];
 // let even = true;
 
@@ -415,3 +417,35 @@
 // } else {
 //     console.log("not all numbers are even");
 // }
+
+
+
+
+//  Q38
+// Answer
+// let numbers = [5, 10, 15, 20, 25];
+
+// let sum = 0;
+// for(let i = 0; i < numbers.length; i++){
+//     sum += numbers[i];
+// }
+// let average = sum / numbers.length;
+
+// let count = 0;
+// for(let i = 0; i < numbers.length; i++){
+//     if(numbers[i] >= average){
+//         count++;
+//     }
+// }
+// console.log(average)
+
+
+
+//  Q39
+// Answer
+let num = [2, 2, 2, 2, 2];
+for(let i = 0; i < numbers.length; i++){
+if(num === num){
+console.log(num)
+}
+}
